@@ -2253,12 +2253,9 @@ img{
 .starter-section {
   /* Add your styles here */
 }
-#navmenu ul li a:hover,.btn-getstarted:hover{
+#navmenu ul li a:hover{
    background-color: mediumspringgreen;
    border-radius: 10px;
    padding: 10px;
   color: white;
  }
-.btn-getstarted:hover{
-  border-radius: 32px;
-}
