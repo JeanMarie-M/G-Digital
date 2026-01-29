@@ -465,7 +465,9 @@ h6 {
   .navmenu .active,
   .navmenu .active:focus {
     color: var(--nav-dropdown-hover-color);
+
   }
+
 
   .navmenu .active i,
   .navmenu .active:focus i {
@@ -2250,4 +2252,13 @@ img{
 --------------------------------------------------------------*/
 .starter-section {
   /* Add your styles here */
+}
+#navmenu ul li a:hover,.btn-getstarted:hover{
+   background-color: mediumspringgreen;
+   border-radius: 10px;
+   padding: 10px;
+  color: white;
+ }
+.btn-getstarted:hover{
+  border-radius: 32px;
 }
